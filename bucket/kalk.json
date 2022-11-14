@@ -1,0 +1,14 @@
+{
+    "homepage": "https://github.com/xoofx/kalk",
+    "license": "BSD-2-Clause",
+    "description": "kalk is a command line calculator app for developers.",
+    "version": "0.7.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/xoofx/kalk/releases/download/0.7.0/kalk.0.7.0.win-x64.zip",
+            "hash": "4f7c59bd6b577d034985dbccc4f6f3d4365329e4f2e33b3fc83a9b3d4410e4f1"
+        }
+    },
+    "bin": "kalk.exe"
+}
+
